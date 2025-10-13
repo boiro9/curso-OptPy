@@ -8,7 +8,7 @@ project:
     - jupyter-book
     - something-else
   authors:
-    - name: captain jupyter
+    - name: captain jupyter amgr
   github: captain-jupyter/my-book
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
