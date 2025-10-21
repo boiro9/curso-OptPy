@@ -1,0 +1,9 @@
+set ITEMS := tornillo candado destornillador toalla ;
+    
+param: v w :=
+    tornillo 8 5
+    candado 3 7
+    destornillador 6 4
+    toalla 11 3;
+    
+param W_max := 14;
