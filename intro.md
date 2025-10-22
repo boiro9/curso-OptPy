@@ -1,5 +1,10 @@
 # Curso de herramientas de optimización con Python
 
+:::{figure} ./img/favicon.png
+:width: 15%
+:align: center
+:::
+
 ```{admonition} Bienvenido
 En esta página web se presenta todo el material del curso de **Herramientas de optimización con Python** impartido en el congreso de la [SGAPEIO XVII](http://xviicongreso.sgapeio.es/index.html) celebrado en Ourense del 23 al 25 de octubre del 2025.
 
@@ -14,7 +19,7 @@ Aunque el curso se imparte en Python, **no es necesario tener un conocimiento av
 ## 🧰 Herramientas que se trabajarán
 La herramientas concretas que se trabajarán en este curso serán:
 - [Pyomo](https://pyomo.readthedocs.io/en/stable/): Lenguaje de modelado algebraico en Python.
-- [Google OR-Tools](https://developers.google.com/optimization): Conjunto de herramientas para problemas combinatorios (API de Python).
+- [Google OR-Tools](https://developers.google.com/optimization): Conjunto de herramientas de Google enfocadas a la optimización (API de Python).
 - [Gurobi Python API](https://www.gurobi.com/documentation/): Interfaz oficial del solver Gurobi para Python.
 
 ## ⚙️ Requisitos e instalación opcional
@@ -33,33 +38,3 @@ Si prefieres trabajar en tu propio entorno, se recomienda usar:
   pip install pyomo ortools gurobipy jupyterlab
   ```
 - Un entorno interactivo como **JupyterLab** para ejecutar los notebooks.
-
-I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
-
-% An admonition containing a note
-:::{note}
-Books are usually written on paper ... But Jupyter Book can create _websites_!
-:::
-
-If you sold 100 books at \$10 per book, you'd have \$1000 dollars according to [](#eq:book). If instead you publish your Jupyter Book to the web for free, you'd have \$0 dollars!
-
-% An arbitrary math equation
-:::{math}
-:name: eq:book
-
-x \times y = z
-:::
-
-Sometimes when reading it is helpful to foster a _tranquil_ environment. The image in [](#fig:mountains) would be a perfect spot!
-
-% A figure of a photograph of some mountains, followed by a caption
-:::{figure} https://github.com/rowanc1/pics/blob/main/mountains.png?raw=true
-:label: fig:mountains
-
-A photograph of some beautiful mountains to look at whilst reading.
-:::
-
-Parece una maravilla. 
-$$
-x^2 = 5*3
-$$

@@ -3,7 +3,7 @@ version: 1
 project:
   id: 1ab69a03-d458-4dff-a322-1a763e6cf484
   title: Curso de Herramientas de Optimización con Python
-  description: A collection of files that build up a book
+  description: Tutorial de librerías de optimización en Python
   keywords:
     - optimization
     - python
@@ -29,8 +29,6 @@ project:
         - file: 022_Pyomo_ejemplo_completo.ipynb
     - file: 03-GoogleORTools.ipynb
     - file: 04-Gurobi.ipynb
-    - file: 01-paper.md
-    - file: 02-notebook.ipynb
 site:
   template: book-theme
   options:

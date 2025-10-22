@@ -1,0 +1,12 @@
+\ Model netflow_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+\ Signature: 0x833cd2eb38381dbe
+Minimize
+ 
+Subject To
+ node[Pencils,Boston]: - flow[Pencils,Detroit,Boston]
+   - flow[Pencils,Denver,Boston] = -50
+Bounds
+ -infinity <= flow[Pencils,Detroit,Boston] <= 0
+ -infinity <= flow[Pencils,Denver,Boston] <= 0
+End
