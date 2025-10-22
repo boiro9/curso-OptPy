@@ -30,11 +30,11 @@ Este curso se puede seguir **sin necesidad de instalar nada localmente**, ya que
 ![Launch on Binder](https://mybinder.org/badge_logo.svg)
 ```
 
-Si prefieres trabajar en tu propio entorno, se recomienda usar:
+Si prefieres trabajar en tu propio entorno, se recomienda:
 
 - **Python 3.13 o inferior**
-- Los siguientes paquetes instalados:
+- Instalar los siguientes paquetes:
   ```bash
-  pip install pyomo ortools gurobipy jupyterlab
+  pip install pyomo ortools gurobipy highspy scipy numpy jupyterlab
   ```
-- Un entorno interactivo como **JupyterLab** para ejecutar los notebooks.
+- Un entorno que permita ejecutar los notebooks como **JupyterLab** o el editor Visual Studio Code.

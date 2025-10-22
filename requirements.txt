@@ -7,11 +7,6 @@ gurobipy
 scipy
 numpy
 
-# altair
-# matplotlib
-# numpy
-# vega_datasets
-
 # To interactively browser Jupyter content with MyST
 jupyterlab
 jupyterlab_myst

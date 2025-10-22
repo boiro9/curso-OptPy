@@ -12,7 +12,8 @@ project:
     - gurobi
   authors:
     - name: Ángel Manuel González Rueda
-      affiliations: Universidad de Santiago de Compostela; Estadística, Análisis Matemático y Optimización
+      affiliations: Universidad de Santiago de Compostela; Departamento de Estadística, Análisis Matemático y Optimización
+      department: Departamento de Estadística, Análisis Matemático y Optimización
       email: angelmanuel.gonzalez.rueda@usc.es
       url: https://investigacion.usc.gal/investigadores/446409/detalle?lang=es
   github: https://github.com/boiro9/jupyterbook2_example
