@@ -1,7 +1,7 @@
 # Curso de herramientas de optimización con Python
 
 :::{figure} ./img/favicon.png
-:width: 15%
+:width: 30%
 :align: center
 :::
 
