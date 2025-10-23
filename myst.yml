@@ -13,10 +13,9 @@ project:
   authors:
     - name: Ángel Manuel González Rueda
       affiliations: Universidad de Santiago de Compostela; Departamento de Estadística, Análisis Matemático y Optimización
-      department: Departamento de Estadística, Análisis Matemático y Optimización
       email: angelmanuel.gonzalez.rueda@usc.es
       url: https://investigacion.usc.gal/investigadores/446409/detalle?lang=es
-  github: https://github.com/boiro9/jupyterbook2_example
+  github: https://github.com/boiro9/curso-OptPy
   jupyter: true
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
